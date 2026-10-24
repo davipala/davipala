@@ -1,4 +1,4 @@
-# Hi, I'm Davi 👋
+# Hi, I'm David Palacios 👋
 
 This profile brings together work from my previous GitHub accounts and highlights a project from my portfolio.
 
