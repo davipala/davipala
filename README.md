@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Davi 👋
 
-<!--
-**davipala/davipala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This profile brings together work from my previous GitHub accounts and highlights a project from my portfolio.
 
-Here are some ideas to get you started:
+## Previous GitHub accounts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [davipala29](https://github.com/davipala29) — an earlier account; no public repositories are currently listed.
+- [davipala299](https://github.com/davipala299) — an earlier account with the project below.
+
+## Project
+
+### [Virtual MRI Scanner](https://github.com/davipala299/COSC4372-Virtual-MRI-Scanner)
+
+A COSC 4372 project that simulates MRI acquisition and image reconstruction using Cartesian and radial trajectories. Its interactive GUI works with two image phantoms and includes image-difference analysis, directional profile graphs, and acquisition-time controls.
